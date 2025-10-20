@@ -1,2 +1,2 @@
 # WeatherStationUnit
-Low Cost Weather Station project 
+Low Cost Weather and Particle Matter Station project 
