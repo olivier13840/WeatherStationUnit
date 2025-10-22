@@ -39,8 +39,8 @@ SensirionI2cSps30 sensor;
 DHT dht(DHTPIN, DHTTYPE);
 
 // === CONFIG WIFI ===
-const char* ssid = "labidi"; //"SgOb24";
-const char* password = "labidilabidi";//"azqswx63";
+const char* ssid = "labidi"; 
+const char* password = "labidilabidi";
 
 double meanT = 0.0;
 double stdT= 0.0;
